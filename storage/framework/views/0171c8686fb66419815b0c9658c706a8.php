@@ -1,0 +1,1 @@
+<h2><?php echo e($content); ?></h2><?php /**PATH C:\laragon\www\verificacertificados\resources\views/welcome.blade.php ENDPATH**/ ?>
